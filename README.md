@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.researchgate.net/profile/Guisen-Chen-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4OTQ5MTQ0NQ==#wechat_redirect" target="_blank"><img alt="Wechat" src="[https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white](https://img.shields.io/badge/-wechat-333333?style=flat&logo=wechat)"></a>
+<a href="https://mp.weixin.qq.com/s/rZK_ubkLOUVyMv7XOBMhsA" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/-Wechat-333333?style=flat&logo=wechat"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
