@@ -1,4 +1,4 @@
-<!-- ### Hi, I am Guisen Chen!👋
+### Hi, I am Guisen Chen!👋
 <!--
 **thecgs/thecgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/thecgs?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
 <a href="https://github.com/thecgs?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-<a href="https://github.com/alwinw?tab=repositories&language=jupyter" target=_blank"><img alt="jupyter" src="https://img.shields.io/badge/-jupyter-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+<a href="https://github.com/alwinw?tab=repositories&language=jupyter" target="_blank"><img alt="jupyter" src="https://img.shields.io/badge/-jupyter-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+<a href="https://github.com/alwinw?tab=repositories&language=jupyter" target="_blank"><img alt="jupyter" src="/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></a>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
