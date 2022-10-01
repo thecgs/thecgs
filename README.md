@@ -1,6 +1,6 @@
 <!-- ### Hi, I am Guisen Chen!👋
 <!--
-**tzy13755126023/tzy13755126023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thecgs/thecgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tzy13755126023&count_private=true&show_icons=true"/>
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thecgs&count_private=true&show_icons=true"/>
 
 ### 🛠 &nbsp;Tech Stack
 <a href="https://github.com/thecgs?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/tzy13755126023/count.svg" />
+<img src="https://profile-counter.glitch.me/thecgs/count.svg" />
