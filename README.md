@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 <a href="https://mp.weixin.qq.com/s/rZK_ubkLOUVyMv7XOBMhsA" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/-Wechat-333333?style=flat&logo=wechat"></a>
 <a href="mailto:thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.researchgate.net/profile/Guisen-Chen-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=thecgs&theme=tokyonight" /> </div>
