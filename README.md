@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/thecgs?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <a href="https://github.com/thecgs?tab=repositories&language=jupyter" target="_blank"><img alt="jupyter" src="https://img.shields.io/badge/-jupyter-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 
+<img width='500px' allt="Thecgs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecgs&theme=default&show_icons=true&hide_border=true&layout=compact">
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://mp.weixin.qq.com/s/rZK_ubkLOUVyMv7XOBMhsA" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/-Wechat-333333?style=flat&logo=wechat"></a>
 <a href="mailto:thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.researchgate.net/profile/Guisen-Chen-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-
-
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/thecgs/count.svg" />
