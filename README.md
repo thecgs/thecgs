@@ -14,16 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⭐️ &nbsp;Github Star
-
-<img width="300px"  alt="GitHub Stats" src="./profile/stats.svg"/>
-
-### 🛠 &nbsp;Tech Stack
-
-<img width='300px' allt="Thecgs's Top Languages" src="./profile/top-langs.svg">
-
-
-
 <a href="https://github.com/thecgs/">
   <img height=200 width=300 align="center" src="./profile/stats.svg" />
 </a>
