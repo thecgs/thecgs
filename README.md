@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img height=200 width=300 align="center" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/thecgs/">
-  <img height=133 width=300 align="center" src="./profile/top-langs.svg" />
+  <img height=132.5 width=300 align="center" src="./profile/top-langs.svg" />
 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
