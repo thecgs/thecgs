@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <a href="mailto:thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/thecgs/">
   <img height=200 width=300 align="center" src="./profile/stats.svg" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/thecgs/">
   <img height=180 width=300 align="center" src="./profile/top-langs.svg" />
 </a>
