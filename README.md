@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <img height=200 width=300 align="center" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/thecgs/">
-  <img height=135 width=300 align="center" src="./profile/top-langs.svg" />
+  <img height=132 width=300 align="center" src="./profile/top-langs.svg" />
 </a>
