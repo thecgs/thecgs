@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <img width='300px' allt="Thecgs's Top Languages" src="./profile/top-langs.svg">
 
-### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 <a href="https://github.com/thecgs/">
@@ -32,3 +30,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/thecgs/">
   <img height=133 width=300 align="center" src="./profile/top-langs.svg" />
 </a>
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
+
