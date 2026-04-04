@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <img width='500px' allt="Thecgs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecgs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecgs&show_icons=true&theme=transparent)
+
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://mp.weixin.qq.com/s/rZK_ubkLOUVyMv7XOBMhsA" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/-Wechat-333333?style=flat&logo=wechat"></a>
 <a href="mailto:thecgs001@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thecgs001@foxmail.com-blue?style=flat-square&logo=gmail"></a>
